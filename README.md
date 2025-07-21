@@ -45,7 +45,7 @@ Ce projet open-source propose la fabrication d’un **séchoir solaire domestiqu
 
 ## 🧰 Ressources
 
-📁 Tous les fichiers sont disponibles.
+📁 Tous les fichiers sont disponibles dans https://github.com/Crunch-Lab/Sechoir_Solaire/blob/main/Sechoir_solaire_github.zip
 
 💾 Formats :
 - `.lbrn2` pour découpe laser (LightBurn)
