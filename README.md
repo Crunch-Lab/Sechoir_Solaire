@@ -10,8 +10,6 @@ Ce projet open-source propose la fabrication d’un **séchoir solaire domestiqu
 /docs/                          → Tutoriels et présentations
 /designs/                       → Fichiers de conception (laser, SketchUp, STL)
 /photos/                        → Photos des prototypes et montages
-/materials-sources/            → Liens et références vers les fournisseurs
-/powerpoint/                   → Présentation du projet (format .pptx)
 ```
 
 ---
@@ -47,21 +45,12 @@ Ce projet open-source propose la fabrication d’un **séchoir solaire domestiqu
 
 ## 🧰 Ressources
 
-📁 Tous les fichiers sont disponibles ici :  
-👉 [Dossier Google Drive du projet](https://drive.google.com/drive/u/2/folders/1szWDBzUaaIwjjAUg8kthZU7-TG31Y7Yd)
+📁 Tous les fichiers sont disponibles.
 
 💾 Formats :
 - `.lbrn2` pour découpe laser (LightBurn)
 - `.skp` et `.stl` pour la version bois responsable (SketchUp, impression 3D)
 - `.pptx` pour la présentation complète du projet
-
----
-
-## 📸 Aperçus
-
-![Prototype séchoir solaire](photos/preview-sechoir.jpg)
-![Traqueur solaire](photos/preview-traqueur.jpg)
-![Version responsable](photos/preview-responsable.jpg)
 
 ---
 
